@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando React.js
 - 👯 Cursando Analise e desenvolvimento de sistemas
-- 🤔 Conhecimento em HTML | CSS | JavaScript | TypeScript
+- 🤔 Conhecimento em HTML | CSS | JavaScript | TypeScript | React Js|React Native 
 
 ### Melhores Tecnologias
 
